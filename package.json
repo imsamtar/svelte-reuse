@@ -1,0 +1,24 @@
+{
+  "name": "svelte-reuse",
+  "version": "0.0.0-0",
+  "description": "Reusable components for svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imsamtar/svelte-reuse.git"
+  },
+  "keywords": [
+    "svelte",
+    "reuseable",
+    "components"
+  ],
+  "author": "SAMEER TARIQ <imsamtar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imsamtar/svelte-reuse/issues"
+  },
+  "homepage": "https://github.com/imsamtar/svelte-reuse#readme"
+}
